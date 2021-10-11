@@ -1,3 +1,4 @@
-# ds
-##List of data structures
+# Data Structurees
+## List of data structures
   - Vector
+  - Stack
